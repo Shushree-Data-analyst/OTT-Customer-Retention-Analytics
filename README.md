@@ -455,6 +455,6 @@ Open `OTT Customer Churn Analysis Dashboard.pbix` in Power BI Desktop and refres
 **Shushree Swain**  
 Aspiring Data Analyst | Python · SQL · Power BI · EDA
 
-[![LinkedIn]((https://www.linkedin.com/in/shushree-swain/))
+[![LinkedIn](https://www.linkedin.com/in/shushree-swain/)
 
 ---
